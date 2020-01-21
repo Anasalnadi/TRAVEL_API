@@ -1,1 +1,55 @@
+{
+  "data" : [
+      {
+        "id" : 1,
+        "title" : "Jordan",
+        "featured_image" : "",
+      
+      },
+  {
+        "id" : 2,
+        "title" : "Jordan",
+        "featured_image" : "",
+      
+      },
+      {
+        "id" : 3,
+        "title" : "Jordan",
+        "featured_image" : "",
+      
+      },
+      {
+        "id" : 4,
+        "title" : "Jordan",
+        "featured_image" : "",
+      
+      },
+      {
+        "id" : 5,
+        "title" : "Jordan",
+        "featured_image" : "",
+      
+      },
+      {
+        "id" : 6,
+        "title" : "Jordan",
+        "featured_image" : "",
+      
+      },
+      {
+        "id" : 7,
+        "title" : "Jordan",
+        "featured_image" : "",
+      
+      },
+      
+     ]
 
+
+
+
+
+
+
+
+}
