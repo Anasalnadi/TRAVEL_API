@@ -1,6 +1,6 @@
 {
 
-  data : [
+  "data" : [
 
       {
 
@@ -18,7 +18,7 @@
 
         "id" : 2,
 
-        "title" : "Jordan",
+        "title" : "Egypt",
 
         "featured_image" : "https://www.pexels.com/photo/raised-building-frame-169647/"
 
@@ -30,7 +30,7 @@
 
         "id" : 3,
 
-        "title" : "Jordan",
+        "title" : "Paris",
 
         "featured_image" : "https://www.pexels.com/photo/raised-building-frame-169647/"
 
@@ -42,7 +42,7 @@
 
         "id" : 4,
 
-        "title" : "Jordan",
+        "title" : "Chine",
 
         "featured_image" : "https://www.pexels.com/photo/raised-building-frame-169647/"
 
@@ -54,7 +54,7 @@
 
         "id" : 5,
 
-        "title" : "Jordan",
+        "title" : "UAE",
 
         "featured_image" : "https://www.pexels.com/photo/raised-building-frame-169647/"
 
@@ -66,7 +66,7 @@
 
         "id" : 6,
 
-        "title" : "Jordan",
+        "title" : "UAS",
 
         "featured_image" : "https://www.pexels.com/photo/raised-building-frame-169647/"
 
@@ -78,7 +78,7 @@
 
         "id" : 7,
 
-        "title" : "Jordan",
+        "title" : "Germane",
 
         "featured_image" : "https://www.pexels.com/photo/raised-building-frame-169647/"
 
